@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/enterpreneurs-capital/static/css/main.31f3a5ab.chunk.css",
-    "main.js": "/enterpreneurs-capital/static/js/main.e7751e3a.chunk.js",
-    "main.js.map": "/enterpreneurs-capital/static/js/main.e7751e3a.chunk.js.map",
+    "main.js": "/enterpreneurs-capital/static/js/main.e98094da.chunk.js",
+    "main.js.map": "/enterpreneurs-capital/static/js/main.e98094da.chunk.js.map",
     "runtime-main.js": "/enterpreneurs-capital/static/js/runtime-main.6d572170.js",
     "runtime-main.js.map": "/enterpreneurs-capital/static/js/runtime-main.6d572170.js.map",
     "static/js/2.71aef25a.chunk.js": "/enterpreneurs-capital/static/js/2.71aef25a.chunk.js",
     "static/js/2.71aef25a.chunk.js.map": "/enterpreneurs-capital/static/js/2.71aef25a.chunk.js.map",
     "index.html": "/enterpreneurs-capital/index.html",
-    "precache-manifest.a48830fbf1c8417d19726906c59eb946.js": "/enterpreneurs-capital/precache-manifest.a48830fbf1c8417d19726906c59eb946.js",
+    "precache-manifest.554daa646cd9d72adf237521e8e3a90e.js": "/enterpreneurs-capital/precache-manifest.554daa646cd9d72adf237521e8e3a90e.js",
     "service-worker.js": "/enterpreneurs-capital/service-worker.js",
     "static/css/main.31f3a5ab.chunk.css.map": "/enterpreneurs-capital/static/css/main.31f3a5ab.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.6d572170.js",
     "static/js/2.71aef25a.chunk.js",
     "static/css/main.31f3a5ab.chunk.css",
-    "static/js/main.e7751e3a.chunk.js"
+    "static/js/main.e98094da.chunk.js"
   ]
 }

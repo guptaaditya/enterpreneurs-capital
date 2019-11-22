@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/enterpreneurs-capital/precache-manifest.a48830fbf1c8417d19726906c59eb946.js"
+  "/enterpreneurs-capital/precache-manifest.554daa646cd9d72adf237521e8e3a90e.js"
 );
 
 self.addEventListener('message', (event) => {
