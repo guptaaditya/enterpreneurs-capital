@@ -64,4 +64,5 @@ I believe the names are self explanatory (or refer to the game rules/features fo
 * **If I had more time, I would focus on UI. make it more convenient and appropriate to games, considering that this is the first game I have developed. I would like to create another version using native javascript and Observables, rather than loading React library and other libraries as they make my game a bit heavier in terms of downloading size(though not significant weightage).**
 * **If time allowed then I would try to involve a service worker and store data in indexedDB rather than localstorage from a service worker, rather than performing same work in main thread**.
 * **If I had more time, would have cleared redundant code, especially css**. Have lot of css thats no more in use.
+* **If time allowed me, then I would create funtionality to drag and place the cards(business cards) and the reset button as per user's convenience thus offering them workspace kind of thingy**.
 
