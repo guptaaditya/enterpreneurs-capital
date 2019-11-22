@@ -1,0 +1,21 @@
+.reset {
+    position: fixed !important;
+    cursor: pointer;
+    /* background: #636363; */
+    transition: transform 500ms ease;
+}
+.reset:hover{
+    animation: scalerotate 500ms linear 0s infinite reverse;
+    transform: scale(1.2);
+}
+@keyframes scalerotate {
+    0% {
+        transform: rotate(0deg);
+    }
+    50% {
+        transform: rotate(180deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}

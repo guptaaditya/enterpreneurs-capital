@@ -1,0 +1,183 @@
+.borderBox {
+    /* border: 1px solid #666; */
+    border-radius: 5px;
+    /* box-shadow: 0 0 10px #666; */
+    margin: auto;
+    margin-left: 10px;
+    margin-top: 20px;
+    position: relative;
+    max-width: 350px;
+    min-width: 300px;
+    padding: 20px 0;
+    background-color: #4b4b4b;
+}
+
+fieldset {
+    padding: 0;
+    border: 0;
+}
+
+legend {
+    padding: 2px 4px;
+}
+
+@keyframes fill {
+    0%   {width: 0%;}
+    100% {width: 100%;}
+}
+
+.progress {
+    width: 100px;
+    height: 10px;
+    background-color: black;
+    margin-top: 50px;
+}
+
+.progressSlim {
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background-color: transparent;
+    border-radius: 20px;
+    top: 0;
+    left: 0;
+}
+
+.fill {
+    height: 100%;
+    animation: fill;
+    animation-timing-function: linear;
+    background-color: green;
+}
+
+/* .c2a {
+    cursor: grab;
+    box-shadow: 0 2px 4px -3px #616161;
+}
+
+.c2a:hover:not(.disabled) {
+    box-shadow: 0 3px 5px 3px #616161;
+    transition: all 0.50s ease-in-out;
+} */
+
+.c2a {
+    cursor: grab;
+    box-shadow: 0 2px 4px -3px #616161;
+}
+
+.c2a:hover:not(.disabled) {
+    transition: all 0.50s ease-in-out;
+    font-weight: bold;
+}
+
+.disabled {
+    opacity: 0.8;
+    filter: blur(1px);
+    cursor: not-allowed;
+    box-shadow: none;
+}
+
+@keyframes blink {
+    0% {
+        opacity:1;
+    }
+    25% {
+        opacity:0.7;
+    }
+    50% {
+        opacity:0.5;
+    }
+    75% {
+        opacity:0.4;
+    }
+    100% {
+        opacity:0;
+    }
+} 
+
+.blink-image {
+    animation: blink normal 1s ease-in-out;
+    animation-iteration-count: 3;
+}
+
+
+@keyframes moveEntity {
+    0%   {left: 10px;}
+    100% {left: 80px;}
+}
+
+.moveEntity {
+    animation: moveEntity;
+    animation-timing-function: ease-in-out;
+    position: relative;
+}
+
+.txt-align-left {
+    text-align: left;
+}
+
+.txt-align-right {
+    text-align: right;
+}
+
+.display-inline {
+    display: inline;
+}
+
+.ruler {
+    width: 100%;
+    border-color: #888888;
+}
+
+.encircle {
+    border: 1px solid #888888;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.p-l-20 {
+    padding-left: 20px
+}
+
+.p-r-20 {
+    padding-right: 20px
+}
+
+.top-right {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.top-left {
+    position: absolute;
+    top: 5px;
+    left: 10px;
+}
+
+.nocursor {
+    cursor: none;
+}
+
+@keyframes flyup {
+    0% {
+        top: -2px;
+        display: inline !important;
+    }
+    10% {
+        top: -4px;
+        display: inline !important;
+    }
+    50% {
+        top: -6px;
+        display: inline !important;
+    }
+    100% {
+        top: -10px;
+        display: inline !important;
+    }
+}
+
+.hidden {
+    display: none;
+}

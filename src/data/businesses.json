@@ -1,0 +1,54 @@
+[
+    {
+        "id": "coffee",
+        "name": "Coffee cafe",
+        "revenue": 10,
+        "time": 500,
+        "cost": 50,
+        "managerCost": 10000,
+        "upgradeCost": 150000,
+        "icon": "/img/coffee.svg",
+        "upgradePromotionText": "Cookies can shoot profit 3x",
+        "managerIcon": "/img/manager.png",
+        "unitName": "Cafe"
+    },
+    {
+        "id": "beer",
+        "name": "Beer Bars",
+        "revenue": 100,
+        "time": 3000,
+        "cost": 400,
+        "managerCost": 100000,
+        "upgradeCost": 1500000,
+        "icon": "/img/beer.svg",
+        "upgradePromotionText": "New Beer mugs can increase profit 3x",
+        "managerIcon": "/img/beer-manager.svg",
+        "unitName": "Bar"
+    },
+    {
+        "id": "fifa",
+        "name": "FIFA Clubs",
+        "revenue": 10000,
+        "time": 9000,
+        "cost": 55000,
+        "managerCost": 1000000,
+        "upgradeCost": 15000000,
+        "icon": "/img/fifa.png",
+        "upgradePromotionText": "Visitors ticket = 3x profit",
+        "managerIcon": "/img/fifa-manager.svg",
+        "unitName": "Club"
+    },
+    {
+        "id": "fam",
+        "name": "Financial Mgmt.",
+        "revenue": 2000000,
+        "time": 12000,
+        "cost": 5000000,
+        "managerCost": 10000000,
+        "upgradeCost": 150000000,
+        "icon": "/img/fam.svg",
+        "upgradePromotionText": "Risk analysis triples your profit",
+        "managerIcon": "/img/fam-manager.svg",
+        "unitName": "Office"
+    }
+]

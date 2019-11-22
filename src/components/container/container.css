@@ -1,0 +1,31 @@
+.center, .topRight, .bottomRight, .bottomLeft, .topLeft {
+    width: 300px;
+    height: 150px;
+    margin: auto;
+}
+
+.topLeft {
+    transform: rotate(-10deg);
+}
+
+.topRight {
+    transform: rotate(10deg);
+}
+
+.bottomRight {
+    transform: rotate(350deg);
+}
+
+.bottomLeft {
+    transform: rotate(-350deg);
+}
+
+.border {
+    border: 1px solid #222222;
+    border-radius: 0 0 5px 5px;
+    border-top: 0;
+}
+
+.p-btm-15 {
+    padding-bottom: 15px;
+}
