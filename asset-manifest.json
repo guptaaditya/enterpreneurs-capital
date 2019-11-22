@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/enterpreneurs-capital/static/css/main.31f3a5ab.chunk.css",
+    "main.js": "/enterpreneurs-capital/static/js/main.706e9cb3.chunk.js",
+    "main.js.map": "/enterpreneurs-capital/static/js/main.706e9cb3.chunk.js.map",
+    "runtime-main.js": "/enterpreneurs-capital/static/js/runtime-main.6d572170.js",
+    "runtime-main.js.map": "/enterpreneurs-capital/static/js/runtime-main.6d572170.js.map",
+    "static/js/2.71aef25a.chunk.js": "/enterpreneurs-capital/static/js/2.71aef25a.chunk.js",
+    "static/js/2.71aef25a.chunk.js.map": "/enterpreneurs-capital/static/js/2.71aef25a.chunk.js.map",
+    "index.html": "/enterpreneurs-capital/index.html",
+    "precache-manifest.4b756801c7691aabb79047a7073e1dca.js": "/enterpreneurs-capital/precache-manifest.4b756801c7691aabb79047a7073e1dca.js",
+    "service-worker.js": "/enterpreneurs-capital/service-worker.js",
+    "static/css/main.31f3a5ab.chunk.css.map": "/enterpreneurs-capital/static/css/main.31f3a5ab.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d572170.js",
+    "static/js/2.71aef25a.chunk.js",
+    "static/css/main.31f3a5ab.chunk.css",
+    "static/js/main.706e9cb3.chunk.js"
+  ]
+}
