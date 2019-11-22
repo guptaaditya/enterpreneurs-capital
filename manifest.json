@@ -1,7 +1,7 @@
 {
-  "short_name": "Enterpreneurs-Capital",
+  "short_name": "enterpreneurs-capital",
   "name": "An adventurous voyage to Enterpreneurship",
-  "start_url": ".",
+  "start_url": "./enterpreneurs-capital/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
