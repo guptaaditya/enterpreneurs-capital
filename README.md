@@ -65,4 +65,4 @@ I believe the names are self explanatory (or refer to the game rules/features fo
 * **If time allowed then I would try to involve a service worker and store data in indexedDB rather than localstorage from a service worker, rather than performing same work in main thread**.
 * **If I had more time, would have cleared redundant code, especially css**. Have lot of css thats no more in use.
 * **If time allowed me, then I would create funtionality to drag and place the cards(business cards) and the reset button as per user's convenience thus offering them workspace kind of thingy**.
-
+* **If time allowed, I would have done better testing for mobile use case and worked on issues, if any**.
